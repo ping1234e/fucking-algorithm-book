@@ -115,3 +115,7 @@ Gitbook 地址：https://labuladong.gitbook.io/algo/
   * [5.9 如何判定括号合法性](第5章-高频面试系列/5.9-如何判定括号合法性.md)
   * [5.10 如何调度考生的座位](第5章-高频面试系列/5.10-如何调度考生的座位.md)
   * [5.11 Union-Find 算法详解](第5章-高频面试系列/5.11-Union-Find算法详解.md)
+
+
+
+add https://www.cnblogs.com/binyue/p/5222710.html
